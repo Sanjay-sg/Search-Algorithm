@@ -41,6 +41,11 @@ else:
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
+''' 
+Program to find the element in a list using Binary Search(Iterative Method)..
+Developed by: Sanjay G
+RegisterNumber: 212222230131
+'''
 def binarySearchIter(arr, k, low, high):
     while low <= high:
         mid = low+(high - low)//2
@@ -63,7 +68,6 @@ if(result == -1):
 else:
     print(arr)
     print("Element found at index: ",result)
-    
     
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
@@ -93,7 +97,14 @@ else:
 
 ```
 ## Sample Input and Output
+## LINEAR SEARCH:
+![image](https://github.com/Sanjay-sg/Search-Algorithm/assets/119559022/1f2c6a2e-d7f3-440b-b3c7-35ed3bdfbda1)
 
+## BINARY SEARCH:
+![Uploading image.png…]()
+
+
+## BINARY SEARCH(Recursion)
 
 
 
