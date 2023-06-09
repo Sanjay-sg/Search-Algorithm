@@ -72,6 +72,11 @@ else:
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
+''' 
+Program to find the element in a list using Binary Search (recursive Method).
+Developed by: Sanjay G
+RegisterNumber: 212222230131
+'''
 def binarySearchter(arr, k, low, high):
     if high >= low:
         mid = low+(high - low)//2
@@ -94,7 +99,6 @@ if(result == -1):
 else:
     print(arr)
     print("Element found at index: ",result)
-
 ```
 ## Sample Input and Output
 ## LINEAR SEARCH:
