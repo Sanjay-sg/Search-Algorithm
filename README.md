@@ -101,15 +101,10 @@ else:
 ![image](https://github.com/Sanjay-sg/Search-Algorithm/assets/119559022/1f2c6a2e-d7f3-440b-b3c7-35ed3bdfbda1)
 
 ## BINARY SEARCH:
-![Uploading image.png…]()
-
+![image](https://github.com/Sanjay-sg/Search-Algorithm/assets/119559022/bc8eb486-78d0-458e-ac05-e4182d505a2d)
 
 ## BINARY SEARCH(Recursion)
-
-
-
-
-
+![image](https://github.com/Sanjay-sg/Search-Algorithm/assets/119559022/02526725-5f30-41d0-84d1-3cdb38a7bbae)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
